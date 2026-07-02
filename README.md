@@ -1,4 +1,4 @@
-# Hi, I'm Md Tamim Ahmed Fardin 👋
+# Hi, I'm Md Tamim Ahmed 👋
 
 I am a Computer Science and Engineering student, developer, and research enthusiast with a growing focus on Software Development, Computer Vision, Machine Learning, and Deep Learning.
 
