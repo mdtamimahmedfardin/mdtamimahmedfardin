@@ -1,8 +1,8 @@
 # Hi, I'm Md Tamim Ahmed 👋
 
-I am a Computer Science and Engineering student, developer, and research enthusiast with a growing focus on Software Development, Computer Vision, Machine Learning, and Deep Learning.
+I am a Computer Science and Engineering student, developer, and research enthusiast with a growing focus on Software Development, Computer Vision, Machine Learning and Deep Learning.
 
-I enjoy building practical digital solutions, exploring AI-based systems, and working on projects that connect academic learning with real-world usefulness.
+I enjoy building practical digital solutions, exploring AI-based systems and working on projects that connect academic learning with real-world usefulness.
 
 ## Focus Areas
 
@@ -23,7 +23,7 @@ I enjoy building practical digital solutions, exploring AI-based systems, and wo
 ## Featured Projects
 
 ### Personal Portfolio
-A dark academic-style personal portfolio website built with HTML, CSS, and JavaScript.
+A dark academic-style personal portfolio website built with HTML, CSS and JavaScript.
 
 🔗 Live Website: https://mdtamimahmedfardin.github.io  
 🔗 Repository: https://github.com/mdtamimahmedfardin/mdtamimahmedfardin.github.io
